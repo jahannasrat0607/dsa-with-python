@@ -28,3 +28,5 @@ if result == n:
 else:
     print('Not a palindrome')
 
+# Time complexity O(log(n))
+# space complexity O(1)
